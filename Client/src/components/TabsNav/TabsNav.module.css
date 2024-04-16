@@ -1,0 +1,16 @@
+.tabsNav{
+    display: flex;
+    margin-left: 20px;
+    gap: 20px;
+}
+
+.container{
+    background-color: #EBEFF2;
+    height: 4rem;
+    display: flex;
+    align-items: center;
+}
+
+
+
+

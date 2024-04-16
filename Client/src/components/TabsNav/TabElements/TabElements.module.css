@@ -1,0 +1,9 @@
+.unActiveTab{
+    font-size: 20px;
+    color: #A7ABB0;
+}
+.activeTab{
+    font-size: 20px;
+    color: #70B3F3;
+    border-bottom: 2px solid #70B3F3; 
+}
